@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*EeBZWmIhTTyITueDednvaw.jpeg)]
 <h1 align="center">Hi 👋, I'm Thayaallan Naidu A/L Ganesan</h1>
 <h3 align="center">A passionate to learn new stuff regarding Software Engineering course</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://dresma.ai/wp-content/uploads/2022/01/Back-End-Developer-Node-JS-2.gif">
 
 - 🌱 I’m currently learning **at University Technology Malaysia**
 
