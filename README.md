@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*EeBZWmIhTTyITueDednvaw.jpeg)]
 <h1 align="center">Hi 👋, I'm Thayaallan Naidu A/L Ganesan</h1>
 <h3 align="center">A passionate to learn new stuff regarding Software Engineering course</h3>
-img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUzeHYxd29hb2VnemQ4ZTZyNmRzbWgzdDlhZ2Z5Znp1a3VpMGU1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning **at University Technology Malaysia**
 
