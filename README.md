@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **naiduvenus@gmail.com**
 
-- ⚡ Fun fact **I am Batman**
+- ⚡ Fun fact **My hobby is to watch movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
